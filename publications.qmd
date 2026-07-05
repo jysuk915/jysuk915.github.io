@@ -1,0 +1,17 @@
+---
+title: "Publications"
+listing:
+  contents: publications.yml
+  type: default
+  sort: "date desc"
+  date-format: "YYYY"
+  categories: true
+  filter-ui: false
+  sort-ui: false
+  fields: [title, author_text, description, date, categories]
+---
+
+You can also find my research on [Google Scholar](https://scholar.google.com/citations?user=Vu2km0AAAAAJ).
+
+::: {#main-listing}
+:::

@@ -1,0 +1,30 @@
+---
+title: "Jiyoun Suk, PhD"
+pagetitle: "Jiyoun Suk, PhD"
+about:
+  template: solana
+  image: assets/profile.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jiyoun.suk@uconn.edu
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=Vu2km0AAAAAJ&hl=en
+    - icon: orcid 
+      text: ORCID
+      href: https://orcid.org/0000-0003-4690-2395
+    - text: Bluesky
+      href: https://bsky.app/profile/jiyoun-suk.bsky.social
+---
+
+## Assistant Professor of Communication
+
+I am an Assistant Professor in the **Department of Communication** at the **University of Connecticut,** jointly appointed with the **Program of Women's, Gender, and Sexuality Studies**. My research examines how digital platforms and AI-mediated environments shape **visibility, credibility, and political action** — with particular attention to marginalized communities in public discourse.
+
+
+::: {.affiliation-list}
+[Digital Politics and Gender]{.badge} [Generative AI and Trust]{.badge} [Multimodal Credibility]{.badge} [Computational Social Science]{.badge}
+:::
+
+[Learn More About Me →](about.qmd) | [View all Research Streams →](research.qmd) 

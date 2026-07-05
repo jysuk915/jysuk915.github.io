@@ -1,0 +1,29 @@
+---
+title: "Teaching"
+---
+
+I design courses that help students critically engage with digital media, develop methodological literacy, and understand how power and inequality shape communication and related phenomena. My teaching integrates computational tools with social theory and emphasizes ethical analysis, public relevance, and inclusive discussion.
+
+## Courses Taught  
+*University of Connecticut*
+
+- **COMM 3210: Gender and Communication**  
+  Examines how gender and power shape communication across media, institutions, and everyday interactions.
+
+- **COMM 3310W: Media Literacy and Criticism (Writing Intensive)**  
+  Develops students’ ability to critically evaluate media systems, information credibility, and communication technologies including AI.  
+  *Recipient of CETL AI Teaching Innovation Faculty Mini-Grant (2025).*
+
+- **COMM 5005: Computational Research Methods** *(Course Developer)*  
+  Introduces computational approaches to communication research, including R basics, text analysis, network analysis, and machine learning.
+
+- **WGSS 3369: Gender, Justice, and Hashtags** *(Course Developer)*  
+  Explores digital activism, hashtag movements, and the politics of visibility across social media platforms.
+  
+*Other Courses/Workshop*
+
+- **Introduction to Mass Communication**, UW-Madison
+- **Effects of Mass Communication**, UW-Madison
+- **Computational Methods Research Group Workshop**, UW-Madison
+- **Food: Culture and Agriculture**, UT-Austin
+- **Freedom: Philosophy/History/Law**, UT-Austin

@@ -1,0 +1,8 @@
+_site/
+.quarto/
+.Rproj.user/
+.Rhistory
+.DS_Store
+.codex-write-test
+
+/.quarto/

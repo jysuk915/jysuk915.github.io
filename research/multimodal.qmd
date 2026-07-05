@@ -1,0 +1,30 @@
+---
+title: "Multimodal Credibility and Belief"
+description: "How Presentation Shapes What People Trust"
+image: multimodal.jpeg
+order: 3
+listing:
+  id: featured-work2
+  contents: featured_multimodal.yml
+  type: grid
+  sort: "date desc"
+  page-size: 6
+  fields: [date, title, description]
+  filter-ui: false
+  sort-ui: false
+  categories: false
+---
+
+As civic discourse increasingly takes shape through image-text combinations and platform-native visual conventions, the question of what makes a claim believable can no longer be reduced to textual content alone. My work argues that credibility is produced through the interaction of content, form, affect, and platform design. This extends my broader visibility framework into the study of credibility — showing that credibility is not merely a property of information itself but is socially and visually produced through communicative forms that platform environments systematically enable or constrain.
+
+### Key Research Questions
+
+-   How do visual-text dynamics shape the interpretation of misleading information?
+-   How is credibility socially and visually produced through platform-native communicative forms?
+-   How do visual persuasion strategies operate in contested contexts such as health misinformation and political polarization?
+
+### Selected Work
+::: {#featured-work2}
+:::
+
+##### {{< fa arrow-left >}} [Back to Research](../research.qmd)

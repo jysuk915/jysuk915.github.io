@@ -1,0 +1,31 @@
+project:
+  type: website
+  resources:
+    - CNAME
+
+website:
+  title: "Jiyoun Suk, PhD"
+  navbar:
+    background: white      # High contrast white background
+    foreground: "#333"    # Dark grey (softer than pure black)
+    search: true
+    left:
+      - text: About
+        href: about.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: CEM lab
+        href: https://cemlab.github.io/index.html
+      - text: CV
+        href: cv.qmd
+
+format:
+  html:
+    theme: lumen
+    css: assets/styles.css 
+    toc: false                         # Table of contents for long pages
+    page-layout: article              # Keeps text width readable (820px approx)

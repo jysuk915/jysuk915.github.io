@@ -1,0 +1,35 @@
+---
+title: "Networked Activism, Gender Justice, and Backlash"
+description: "Power, Visibility, and Political Contestation"
+image: activism.jpeg
+order: 1
+#bibliography: /Users/jiyoun/My Drive/06 CV/website/bibtex.bib
+#csl: /Users/jiyoun/My Drive/06 CV/website/apa-cv.csl
+
+listing:
+  id: featured-work
+  contents: featured_activism.yml
+  type: grid
+  sort: "date desc"
+  page-size: 6
+  fields: [date, title, description]
+  filter-ui: false
+  sort-ui: false
+  categories: false
+---
+
+I examine how marginalized communities — especially women, survivors of sexual violence, and racial and ethnic minorities — use digital platforms to build solidarity and transform personal testimony into collective political action. A central finding of this work is that visibility for marginalized groups is not simply enabling; it is also a site of political struggle in which amplification and backlash are structurally linked. My research traces how activist discourse travels across platforms, hybridizes across geo-linguistic contexts, and becomes the object of partisan contestation as it gains public prominence.
+
+### Key Research Questions
+
+-   How do marginalized communities build civic voice and solidarity across platforms?
+-   How does activist discourse hybridize across borders and platforms for contextual relevance?
+-   When and why does visibility generate backlash, politicization, and polarization?
+-   How are social justice and DEI discourses contested and politicized over time?
+
+### Featured Work
+::: {#featured-work}
+:::
+
+##### {{< fa arrow-left >}} [Back to Research](../research.qmd)
+

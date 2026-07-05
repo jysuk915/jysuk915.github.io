@@ -1,0 +1,23 @@
+---
+title: "Research"
+listing:
+  id: research
+  contents: research
+  type: grid
+  sort: "order asc"
+  grid-columns: 3
+  image-height: 150px
+  fields: [image, title, description]
+---
+
+My research advances a central argument: in networked, multiplatform, and increasingly AI-mediated communication environments, **visibility is not neutral**. It shapes what counts as credible, whose voices are heard, and what forms of political action become possible. I examine these dynamics with particular attention to communities that are structurally marginalized in public discourse, while situating their experiences within broader transformations in digital politics and AI-mediated communication.
+
+Methodologically, my program is grounded in computational social science — cross-platform discourse analysis, NLP, network analysis, and multimodal content analysis in `R` and `Python` — triangulated with surveys, experiments, and qualitative approaches.
+
+
+## Core Research Streams
+
+I examine the intersection of technology, power, and communication through three interconnected lines of inquiry.
+
+::: {#research}
+:::

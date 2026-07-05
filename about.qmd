@@ -1,0 +1,43 @@
+---
+title: "About"
+---
+
+My research examines how digital platforms and AI-mediated environments shape whose voices become visible, what claims become credible, and how political action unfolds — with particular attention to communities that are structurally marginalized in public discourse. I combine computational methods (NLP, network analysis, computer vision) with surveys and experiments to study how visibility is produced, contested, and made consequential across platforms.
+
+## Biography
+
+I am an Assistant Professor of Communication at the **University of Connecticut**, jointly appointed with the Program of Women's, Gender, and Sexuality Studies. I received my Ph.D. in Mass Communication from the **University of Wisconsin–Madison** in 2021.
+
+My work sits at the intersection of computational social science and political communication, investigating how digital architectures influence social change.
+
+
+## Recognition & Affiliations
+
+-   **Emerging Scholarship Award**, KACA–NCA (2025)
+-   **Co-Director**, Communication and Emerging Media (CEM) Lab
+-   **Faculty Affiliate**, UConn Center for mHealth and Social Media
+-   **Key Faculty**, UConn Humanities Institute AI-Working Group
+
+## Membership
+
+-   International Communication Association (ICA)
+-   American Educational Association of Journalism and Mass Communication (AEJMC)
+-   National Communication Association (NCA)
+-   American Political Science Association (APSA)
+-   Media and Democracy Data Coop ([MDDC](https://mddatacoop.org/))
+
+------------------------------------------------------------------------
+
+::::: grid
+::: g-col-6
+### Contact
+
+{{< fa envelope >}} [jiyoun.suk\@uconn.edu](mailto:jiyoun.suk@uconn.edu)
+:::
+
+::: g-col-6
+### Office
+
+{{< fa building >}} **Location:** Arjona 206
+:::
+:::::

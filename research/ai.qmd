@@ -1,0 +1,31 @@
+---
+title: "AI-Mediated Communication and Public Trust"
+description: "How AI Reshapes Visibility, Credibility, and Trust"
+image: ai.jpeg
+order: 2
+listing:
+  id: featured-work3
+  contents: featured_ai.yml
+  type: grid
+  sort: "date desc"
+  page-size: 6
+  fields: [date, title, description]
+  filter-ui: false
+  sort-ui: false
+  categories: false
+---
+
+If platforms have long influenced what people see and trust, generative AI intensifies those dynamics by increasingly mediating how information is produced, recommended, and interpreted. This emerging line of inquiry examines how AI reshapes the information environments in which visibility and credibility are constructed — extending the same framework that organizes my research on activism and multimodal credibility. My work develops theoretical frameworks for understanding trust in AI systems, analyzes public discourse about generative AI, and tests how AI-mediated environments shape political perceptions and bias.
+
+### Key Research Questions
+
+-   How do people form and direct trust toward different components of AI systems?
+-   How does generative AI reshape public discourse, expertise, and credibility?
+-   How do AI-mediated environments shape political perceptions and trust?
+-   What are social, political, and cultural implications of AI literacy?
+
+### Featured Work
+::: {#featured-work3}
+:::
+
+##### {{< fa arrow-left >}} [Back to Research](../research.qmd)

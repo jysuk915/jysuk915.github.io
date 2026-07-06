@@ -1,0 +1,26 @@
+[
+  {
+    "listing": "/publications.html",
+    "items": []
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/activism.html",
+      "/research/ai.html",
+      "/research/multimodal.html"
+    ]
+  },
+  {
+    "listing": "/research/ai.html",
+    "items": []
+  },
+  {
+    "listing": "/research/multimodal.html",
+    "items": []
+  },
+  {
+    "listing": "/research/activism.html",
+    "items": []
+  }
+]

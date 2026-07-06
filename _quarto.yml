@@ -1,7 +1,5 @@
 project:
   type: website
-  resources:
-    - CNAME
 
 website:
   title: "Jiyoun Suk, PhD"
